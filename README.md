@@ -2,9 +2,9 @@
 
 ### I freelance in...
 
-## ~~ Data Science ~~ 
-## ~~ Machine Learning ~~
-## ~~ AI ~~
-## ~~ ETL ~~
-## ~~ Data Engineering ~~
+## <del> Data Science </del>
+## <del> Machine Learning </del>
+##< del> AI </del>
+## <del> ETL </del>
+## <del> Data Engineering </del>
 ## All things data...
